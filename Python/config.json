@@ -1,0 +1,19 @@
+{
+  "directory_path": "/Input",
+  "output_directory_path": "/Users/douimetca.ibm.com/Documents/Box Sync/Programming/BACA/CA/Output",
+  "main_url": "https://cademo5.bpm.ibmcloud.com/backendbacainst1/ca/rest/content/v1/contentAnalyzer",
+  "output_options": "\"utf8\",\"json\",\"pdf\"",   
+  "json_options": "\"ocr\",\"dc\",\"kvp\",\"sn\",\"hr\",\"th\",\"mt\",\"wi\",\"shw\"",
+  "ssl_verification": false,
+  "file_type": [
+    "pdf",
+    "tif",
+    "docx",
+    "doc",
+    "pptx",
+    "ppt"
+  ],
+  "function_id": "douimet.fid@t4012",
+  "password": "Ab+HAX5OR4bm3QNjMVDbtf4R1npc6IpWTtdleXJS",
+  "api_key": "64b6a3d3-46e5-4fdc-95de-a99844d295cf"
+}

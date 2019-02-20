@@ -1,0 +1,33 @@
+{
+    "starttime": "2019-02-20 10:40:35.189016",
+    "endtime": "2019-02-20 10:40:52.257420",
+    "no_of_files": 2,
+    "output_results": [
+        {
+            "filename": "APT001.tif",
+            "path": "Input",
+            "full_path": "/Users/douimetca.ibm.com/Documents/Box Sync/Programming/BACA/CA/Input/APT001.tif",
+            "response": "{\"status\":{\"code\":202,\"messageId\":\"CIWCA12001\",\"message\":\"Content Analyzer request was created\"},\"data\":{\"message\":\"utf8,json,pdf processing request was created successful\",\"fileNameIn\":\"APT001.tif\",\"analyzerId\":\"de18f370-3525-11e9-9a51-cbf39371f44c\",\"type\":[\"utf8\",\"json\",\"pdf\"]}}",
+            "output_type": [
+                "\"utf8\"",
+                "\"json\"",
+                "\"pdf\""
+            ]
+        },
+        {
+            "filename": "Website Maintenance Contract.docx",
+            "path": "Input",
+            "full_path": "/Users/douimetca.ibm.com/Documents/Box Sync/Programming/BACA/CA/Input/Website-Maintenance-Contract.docx",
+            "response": "{\"status\":{\"code\":202,\"messageId\":\"CIWCA12001\",\"message\":\"Content Analyzer request was created\"},\"data\":{\"message\":\"utf8,json,pdf processing request was created successful\",\"fileNameIn\":\"Website_Maintenance_Contract.docx\",\"analyzerId\":\"e0559d00-3525-11e9-bd71-7d1c0a6eca87\",\"type\":[\"utf8\",\"json\",\"pdf\"]}}",
+            "output_type": [
+                "\"utf8\"",
+                "\"json\"",
+                "\"pdf\""
+            ]
+        }
+    ],
+    "no_output_results": 2,
+    "total_upload_seconds": 17.068404,
+    "upload_errors": [],
+    "no_of_upload_errors": 0
+}

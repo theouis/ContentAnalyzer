@@ -1,0 +1,3041 @@
+{
+    "analyzerId": "6626b300-299c-11e9-890a-0d06297cd26b",
+    "customerUniqueIdentifier": "",
+    "createDate": "2019-02-05 23:18:53.391531",
+    "CustomerCode": "IBM",
+    "DocumentArrivalTime": "2019-02-05 23:18:53.391531",
+    "DocumentExtension": "tif",
+    "DocumentName": "APT001",
+    "DocumentOCRConfidence": "High",
+    "ErrorList": [],
+    "ExtraInformation": {
+        "title": "prefix-985CDOEqwvQBfu",
+        "producer": "ImageMagick 6.8.9-9 Q16 x86_64 2018-09-28 http://www.imagemagick.org",
+        "creationdate": 1549408732000,
+        "moddate": 1549408732000,
+        "tagged": "no",
+        "userproperties": "no",
+        "suspects": "no",
+        "form": "none",
+        "javascript": "no",
+        "pages": 1,
+        "encrypted": "no",
+        "page_size": "613.2 x 793.2 pts",
+        "page_rot": 0,
+        "mediabox": "0.00     0.00   613.20   793.20",
+        "cropbox": "0.00     0.00   613.20   793.20",
+        "bleedbox": "0.00     0.00   613.20   793.20",
+        "trimbox": "0.00     0.00   613.20   793.20",
+        "artbox": "0.00     0.00   613.20   793.20",
+        "file_size": "18976 bytes",
+        "optimized": "no",
+        "pdf_version": 1.3
+    },
+    "MandatoryInformation": {
+        "Color": "Red",
+        "Description": "Mandatory field(s) not found."
+    },
+    "UserID": 2,
+    "Classification": {
+        "DocumentLanguage": "English",
+        "Page Title": {
+            "Title": [
+                "n xyz hardware"
+            ],
+            "Trained": "NO",
+            "Confidence": "Low"
+        },
+        "DocumentClass": {
+            "Actual": "Invoice",
+            "ID": 29,
+            "ClassMatch": "High",
+            "ClassificationWords": [
+                "phone",
+                "invoice",
+                "hardware",
+                "shovel",
+                "pierre",
+                "customer",
+                "misc",
+                "name",
+                "ralph",
+                "anderson",
+                "date",
+                "address",
+                "unknown",
+                "road",
+                "order",
+                "city",
+                "montgomery",
+                "state",
+                "terms",
+                "office",
+                "references",
+                "names",
+                "places",
+                "addresses",
+                "data",
+                "information",
+                "fictitious",
+                "used",
+                "illustration",
+                "purposes"
+            ]
+        }
+    },
+    "Watson": [],
+    "WDS": [
+        {
+            "Title": "APT001_0_0",
+            "Content": "Invoice No. 0014879 N >. >< XYZ Hardware 60 Shovel Rd Phone: 605-555-6789 Pierre, SD 57501 Fax: 605-555-6788 Customer: Misc: Name Ralph R. Anderson Date 02/15/10 Address 55 Unknown Road Order No. 738939 City Montgomery State: AL ZIP: 36101 PO# 013125 Phone (334) 555-1111 Terms 2/10Net30 Office Use Only All references to names, places, addresses, and other data or information, are fictitious and are used for illustration purposes only.",
+            "OCRAccuracy": "High",
+            "DocumentClass": "Invoice",
+            "DocumentClassMatch": "High",
+            "DocumentName": "APT001",
+            "Timestamp": "2019-02-05 23:18:53.391531",
+            "TransactionID": "6626b300-299c-11e9-890a-0d06297cd26b_1",
+            "DocNLU": []
+        }
+    ],
+    "pageList": [
+        {
+            "BlockList": [
+                {
+                    "BlockStartX": 1782,
+                    "BlockStartY": 222,
+                    "BlockWidth": 415,
+                    "BlockHeight": 31,
+                    "BlockID": "block_0",
+                    "BlockBGColor": "",
+                    "BlockFGColor": "",
+                    "BlockType": "",
+                    "Miscellaneous": "",
+                    "Remark": "",
+                    "LineList": [
+                        {
+                            "LineStartX": 1782,
+                            "LineStartY": 222,
+                            "LineWidth": 415,
+                            "LineHeight": 30,
+                            "LineID": "line_0",
+                            "WordList": [
+                                {
+                                    "WordStartX": 1782,
+                                    "WordStartY": 222,
+                                    "WordWidth": 138,
+                                    "WordHeight": 30,
+                                    "CharListrunlist": [],
+                                    "bold": "true",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "Invoice",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_0",
+                                    "WordCharN": 7
+                                },
+                                {
+                                    "WordStartX": 1937,
+                                    "WordStartY": 222,
+                                    "WordWidth": 61,
+                                    "WordHeight": 30,
+                                    "bold": "true",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "No.",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_1",
+                                    "WordCharN": 3
+                                },
+                                {
+                                    "WordStartX": 2037,
+                                    "WordStartY": 222,
+                                    "WordWidth": 159,
+                                    "WordHeight": 30,
+                                    "bold": "true",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "0014879",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_2",
+                                    "WordCharN": 7
+                                }
+                            ],
+                            "pageNum": 0,
+                            "blockNum": "block_0",
+                            "LineHeaderAttributes": {
+                                "HeaderText": "Invoice No. 0014879",
+                                "HeaderConfidence": "Low",
+                                "HeaderClass": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "backColor": "000000",
+                    "language": "nl",
+                    "BlockStartX": 101,
+                    "BlockStartY": 276,
+                    "BlockWidth": 1407,
+                    "BlockHeight": 274,
+                    "BlockID": "block_1",
+                    "BlockBGColor": "",
+                    "BlockFGColor": "",
+                    "BlockType": "",
+                    "Miscellaneous": "",
+                    "Remark": "",
+                    "LineList": [
+                        {
+                            "foreColor": "ffffff",
+                            "LineStartX": 101,
+                            "LineStartY": 276,
+                            "LineWidth": 91,
+                            "LineHeight": 72,
+                            "LineID": "line_0",
+                            "WordList": [
+                                {
+                                    "WordStartX": 101,
+                                    "WordStartY": 276,
+                                    "WordWidth": 91,
+                                    "WordHeight": 72,
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "2200",
+                                    "FontSize": "2200",
+                                    "WordFontSizeGroup": 1,
+                                    "WordValue": "N",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_0",
+                                    "WordCharN": 1
+                                }
+                            ],
+                            "pageNum": 0,
+                            "blockNum": "block_1",
+                            "LineHeaderAttributes": {
+                                "HeaderText": "N",
+                                "HeaderConfidence": "Low",
+                                "HeaderClass": null
+                            }
+                        },
+                        {
+                            "foreColor": "ffffff",
+                            "LineStartX": 102,
+                            "LineStartY": 356,
+                            "LineWidth": 89,
+                            "LineHeight": 86,
+                            "LineID": "line_1",
+                            "WordList": [
+                                {
+                                    "WordStartX": 102,
+                                    "WordStartY": 356,
+                                    "WordWidth": 89,
+                                    "WordHeight": 86,
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "2200",
+                                    "FontSize": "2200",
+                                    "WordFontSizeGroup": 1,
+                                    "WordValue": ">.",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_0",
+                                    "WordCharN": 2
+                                }
+                            ],
+                            "pageNum": 0,
+                            "blockNum": "block_1",
+                            "LineHeaderAttributes": {
+                                "HeaderText": ">.",
+                                "HeaderConfidence": "Low",
+                                "HeaderClass": null
+                            }
+                        },
+                        {
+                            "foreColor": "ffffff",
+                            "LineStartX": 102,
+                            "LineStartY": 445,
+                            "LineWidth": 89,
+                            "LineHeight": 90,
+                            "LineID": "line_2",
+                            "WordList": [
+                                {
+                                    "WordStartX": 102,
+                                    "WordStartY": 445,
+                                    "WordWidth": 89,
+                                    "WordHeight": 90,
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "2200",
+                                    "FontSize": "2200",
+                                    "WordFontSizeGroup": 1,
+                                    "WordValue": "><",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_0",
+                                    "WordCharN": 2
+                                }
+                            ],
+                            "pageNum": 0,
+                            "blockNum": "block_1",
+                            "LineHeaderAttributes": {
+                                "HeaderText": "><",
+                                "HeaderConfidence": "Low",
+                                "HeaderClass": null
+                            }
+                        },
+                        {
+                            "LineStartX": 362,
+                            "LineStartY": 335,
+                            "LineWidth": 597,
+                            "LineHeight": 67,
+                            "LineID": "line_0",
+                            "WordList": [
+                                {
+                                    "WordStartX": 362,
+                                    "WordStartY": 336,
+                                    "WordWidth": 176,
+                                    "WordHeight": 66,
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "2200",
+                                    "FontSize": "2200",
+                                    "WordFontSizeGroup": 1,
+                                    "WordValue": "XYZ",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_0",
+                                    "WordCharN": 3
+                                },
+                                {
+                                    "WordStartX": 573,
+                                    "WordStartY": 336,
+                                    "WordWidth": 386,
+                                    "WordHeight": 66,
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "2200",
+                                    "FontSize": "2200",
+                                    "WordFontSizeGroup": 1,
+                                    "WordValue": "Hardware",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_1",
+                                    "WordCharN": 8
+                                }
+                            ],
+                            "pageNum": 0,
+                            "blockNum": "block_1",
+                            "LineHeaderAttributes": {
+                                "HeaderText": "XYZ Hardware",
+                                "HeaderConfidence": "Low",
+                                "HeaderClass": null
+                            }
+                        },
+                        {
+                            "LineStartX": 362,
+                            "LineStartY": 462,
+                            "LineWidth": 1145,
+                            "LineHeight": 31,
+                            "LineID": "line_0",
+                            "WordList": [
+                                {
+                                    "WordStartX": 362,
+                                    "WordStartY": 463,
+                                    "WordWidth": 42,
+                                    "WordHeight": 30,
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "60",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_0",
+                                    "WordCharN": 2
+                                },
+                                {
+                                    "WordStartX": 420,
+                                    "WordStartY": 462,
+                                    "WordWidth": 122,
+                                    "WordHeight": 31,
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "Shovel",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_1",
+                                    "WordCharN": 6
+                                },
+                                {
+                                    "WordStartX": 560,
+                                    "WordStartY": 463,
+                                    "WordWidth": 47,
+                                    "WordHeight": 30,
+                                    "CharListrunlist": [],
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "Rd",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_2",
+                                    "WordCharN": 2
+                                },
+                                {
+                                    "WordStartX": 1108,
+                                    "WordStartY": 463,
+                                    "WordWidth": 126,
+                                    "WordHeight": 30,
+                                    "CharListrunlist": [],
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "Phone:",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_3",
+                                    "WordCharN": 6
+                                },
+                                {
+                                    "WordStartX": 1251,
+                                    "WordStartY": 463,
+                                    "WordWidth": 256,
+                                    "WordHeight": 30,
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "605-555-6789",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_4",
+                                    "WordCharN": 12
+                                }
+                            ],
+                            "pageNum": 0,
+                            "blockNum": "block_1",
+                            "LineHeaderAttributes": {}
+                        },
+                        {
+                            "LineStartX": 363,
+                            "LineStartY": 512,
+                            "LineWidth": 1093,
+                            "LineHeight": 37,
+                            "LineID": "line_1",
+                            "WordList": [
+                                {
+                                    "WordStartX": 363,
+                                    "WordStartY": 513,
+                                    "WordWidth": 115,
+                                    "WordHeight": 36,
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "Pierre,",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_0",
+                                    "WordCharN": 7
+                                },
+                                {
+                                    "WordStartX": 497,
+                                    "WordStartY": 512,
+                                    "WordWidth": 53,
+                                    "WordHeight": 31,
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "SD",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_1",
+                                    "WordCharN": 2
+                                },
+                                {
+                                    "WordStartX": 566,
+                                    "WordStartY": 513,
+                                    "WordWidth": 106,
+                                    "WordHeight": 30,
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "57501",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_2",
+                                    "WordCharN": 5
+                                },
+                                {
+                                    "WordStartX": 1108,
+                                    "WordStartY": 513,
+                                    "WordWidth": 75,
+                                    "WordHeight": 30,
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "Fax:",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_3",
+                                    "WordCharN": 4
+                                },
+                                {
+                                    "WordStartX": 1200,
+                                    "WordStartY": 513,
+                                    "WordWidth": 257,
+                                    "WordHeight": 30,
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "605-555-6788",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_4",
+                                    "WordCharN": 12
+                                }
+                            ],
+                            "pageNum": 0,
+                            "blockNum": "block_1",
+                            "LineHeaderAttributes": {}
+                        }
+                    ]
+                },
+                {
+                    "BlockStartX": 97,
+                    "BlockStartY": 677,
+                    "BlockWidth": 1744,
+                    "BlockHeight": 35,
+                    "BlockID": "block_2",
+                    "BlockBGColor": "",
+                    "BlockFGColor": "",
+                    "BlockType": "",
+                    "Miscellaneous": "",
+                    "Remark": "",
+                    "LineList": [
+                        {
+                            "LineStartX": 97,
+                            "LineStartY": 678,
+                            "LineWidth": 1743,
+                            "LineHeight": 33,
+                            "LineID": "line_0",
+                            "WordList": [
+                                {
+                                    "WordStartX": 97,
+                                    "WordStartY": 678,
+                                    "WordWidth": 202,
+                                    "WordHeight": 32,
+                                    "CharListrunlist": [],
+                                    "bold": "true",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "Customer:",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_0",
+                                    "WordCharN": 9
+                                },
+                                {
+                                    "WordStartX": 1740,
+                                    "WordStartY": 680,
+                                    "WordWidth": 100,
+                                    "WordHeight": 31,
+                                    "bold": "true",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "Misc:",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_0",
+                                    "WordCharN": 5
+                                }
+                            ],
+                            "pageNum": 0,
+                            "blockNum": "block_2",
+                            "LineHeaderAttributes": {}
+                        }
+                    ]
+                },
+                {
+                    "BlockStartX": 96,
+                    "BlockStartY": 781,
+                    "BlockWidth": 2125,
+                    "BlockHeight": 202,
+                    "BlockID": "block_5",
+                    "BlockBGColor": "",
+                    "BlockFGColor": "",
+                    "BlockType": "",
+                    "Miscellaneous": "",
+                    "Remark": "",
+                    "LineList": [
+                        {
+                            "LineStartX": 98,
+                            "LineStartY": 781,
+                            "LineWidth": 2093,
+                            "LineHeight": 37,
+                            "LineID": "line_0",
+                            "WordList": [
+                                {
+                                    "WordStartX": 98,
+                                    "WordStartY": 781,
+                                    "WordWidth": 108,
+                                    "WordHeight": 31,
+                                    "CharListrunlist": [],
+                                    "bold": "true",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "Name",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_0",
+                                    "WordCharN": 4
+                                },
+                                {
+                                    "WordStartX": 361,
+                                    "WordStartY": 781,
+                                    "WordWidth": 102,
+                                    "WordHeight": 37,
+                                    "CharListrunlist": [],
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "Ralph",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_1",
+                                    "WordCharN": 5
+                                },
+                                {
+                                    "WordStartX": 482,
+                                    "WordStartY": 781,
+                                    "WordWidth": 35,
+                                    "WordHeight": 31,
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "R.",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_2",
+                                    "WordCharN": 2
+                                },
+                                {
+                                    "WordStartX": 530,
+                                    "WordStartY": 781,
+                                    "WordWidth": 175,
+                                    "WordHeight": 31,
+                                    "CharListrunlist": [],
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "Anderson",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_3",
+                                    "WordCharN": 8
+                                },
+                                {
+                                    "WordStartX": 1750,
+                                    "WordStartY": 781,
+                                    "WordWidth": 86,
+                                    "WordHeight": 31,
+                                    "bold": "true",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "Date",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_0",
+                                    "WordCharN": 4
+                                },
+                                {
+                                    "WordStartX": 2032,
+                                    "WordStartY": 781,
+                                    "WordWidth": 158,
+                                    "WordHeight": 31,
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "02/15/10",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_1",
+                                    "WordCharN": 8
+                                }
+                            ],
+                            "pageNum": 0,
+                            "blockNum": "block_5",
+                            "LineHeaderAttributes": {}
+                        },
+                        {
+                            "LineStartX": 96,
+                            "LineStartY": 835,
+                            "LineWidth": 2070,
+                            "LineHeight": 31,
+                            "LineID": "line_1",
+                            "WordList": [
+                                {
+                                    "WordStartX": 96,
+                                    "WordStartY": 835,
+                                    "WordWidth": 165,
+                                    "WordHeight": 31,
+                                    "CharListrunlist": [],
+                                    "bold": "true",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "Address",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_0",
+                                    "WordCharN": 7
+                                },
+                                {
+                                    "WordStartX": 360,
+                                    "WordStartY": 836,
+                                    "WordWidth": 42,
+                                    "WordHeight": 30,
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "55",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_1",
+                                    "WordCharN": 2
+                                },
+                                {
+                                    "WordStartX": 418,
+                                    "WordStartY": 835,
+                                    "WordWidth": 168,
+                                    "WordHeight": 31,
+                                    "CharListrunlist": [],
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "Unknown",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_2",
+                                    "WordCharN": 7
+                                },
+                                {
+                                    "WordStartX": 605,
+                                    "WordStartY": 835,
+                                    "WordWidth": 92,
+                                    "WordHeight": 31,
+                                    "CharListrunlist": [],
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "Road",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_3",
+                                    "WordCharN": 4
+                                },
+                                {
+                                    "WordStartX": 1748,
+                                    "WordStartY": 835,
+                                    "WordWidth": 112,
+                                    "WordHeight": 31,
+                                    "bold": "true",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "Order",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_0",
+                                    "WordCharN": 5
+                                },
+                                {
+                                    "WordStartX": 1875,
+                                    "WordStartY": 835,
+                                    "WordWidth": 62,
+                                    "WordHeight": 31,
+                                    "bold": "true",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "No.",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_1",
+                                    "WordCharN": 3
+                                },
+                                {
+                                    "WordStartX": 2032,
+                                    "WordStartY": 835,
+                                    "WordWidth": 135,
+                                    "WordHeight": 31,
+                                    "bold": "true",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "738939",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_2",
+                                    "WordCharN": 6
+                                }
+                            ],
+                            "pageNum": 0,
+                            "blockNum": "block_5",
+                            "LineHeaderAttributes": {}
+                        },
+                        {
+                            "LineStartX": 97,
+                            "LineStartY": 888,
+                            "LineWidth": 2070,
+                            "LineHeight": 40,
+                            "LineID": "line_2",
+                            "WordList": [
+                                {
+                                    "WordStartX": 97,
+                                    "WordStartY": 888,
+                                    "WordWidth": 75,
+                                    "WordHeight": 40,
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "City",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_0",
+                                    "WordCharN": 4
+                                },
+                                {
+                                    "WordStartX": 361,
+                                    "WordStartY": 890,
+                                    "WordWidth": 227,
+                                    "WordHeight": 37,
+                                    "CharListrunlist": [],
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "Montgomery",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_1",
+                                    "WordCharN": 10
+                                },
+                                {
+                                    "WordStartX": 835,
+                                    "WordStartY": 888,
+                                    "WordWidth": 102,
+                                    "WordHeight": 31,
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "State:",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_0",
+                                    "WordCharN": 6
+                                },
+                                {
+                                    "WordStartX": 973,
+                                    "WordStartY": 890,
+                                    "WordWidth": 50,
+                                    "WordHeight": 30,
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "AL",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_1",
+                                    "WordCharN": 2
+                                },
+                                {
+                                    "WordStartX": 1186,
+                                    "WordStartY": 890,
+                                    "WordWidth": 72,
+                                    "WordHeight": 30,
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "ZIP:",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_0",
+                                    "WordCharN": 4
+                                },
+                                {
+                                    "WordStartX": 1287,
+                                    "WordStartY": 890,
+                                    "WordWidth": 106,
+                                    "WordHeight": 30,
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "36101",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_1",
+                                    "WordCharN": 5
+                                },
+                                {
+                                    "WordStartX": 1750,
+                                    "WordStartY": 888,
+                                    "WordWidth": 80,
+                                    "WordHeight": 31,
+                                    "bold": "true",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "PO#",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_0",
+                                    "WordCharN": 3
+                                },
+                                {
+                                    "WordStartX": 2032,
+                                    "WordStartY": 890,
+                                    "WordWidth": 135,
+                                    "WordHeight": 30,
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "013125",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_1",
+                                    "WordCharN": 6
+                                }
+                            ],
+                            "pageNum": 0,
+                            "blockNum": "block_5",
+                            "LineHeaderAttributes": {}
+                        },
+                        {
+                            "LineStartX": 98,
+                            "LineStartY": 942,
+                            "LineWidth": 2122,
+                            "LineHeight": 40,
+                            "LineID": "line_3",
+                            "WordList": [
+                                {
+                                    "WordStartX": 98,
+                                    "WordStartY": 943,
+                                    "WordWidth": 123,
+                                    "WordHeight": 31,
+                                    "CharListrunlist": [],
+                                    "bold": "true",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "Phone",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_0",
+                                    "WordCharN": 5
+                                },
+                                {
+                                    "WordStartX": 361,
+                                    "WordStartY": 942,
+                                    "WordWidth": 92,
+                                    "WordHeight": 40,
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "(334)",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_1",
+                                    "WordCharN": 5
+                                },
+                                {
+                                    "WordStartX": 468,
+                                    "WordStartY": 943,
+                                    "WordWidth": 157,
+                                    "WordHeight": 31,
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "555-1111",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_2",
+                                    "WordCharN": 8
+                                },
+                                {
+                                    "WordStartX": 1747,
+                                    "WordStartY": 943,
+                                    "WordWidth": 119,
+                                    "WordHeight": 31,
+                                    "bold": "true",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "Terms",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_0",
+                                    "WordCharN": 5
+                                },
+                                {
+                                    "WordStartX": 2031,
+                                    "WordStartY": 942,
+                                    "WordWidth": 189,
+                                    "WordHeight": 32,
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "2/10Net30",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_1",
+                                    "WordCharN": 9
+                                }
+                            ],
+                            "pageNum": 0,
+                            "blockNum": "block_5",
+                            "LineHeaderAttributes": {}
+                        }
+                    ]
+                },
+                {
+                    "BlockStartX": 1476,
+                    "BlockStartY": 2346,
+                    "BlockWidth": 289,
+                    "BlockHeight": 41,
+                    "BlockID": "block_10",
+                    "BlockBGColor": "",
+                    "BlockFGColor": "",
+                    "BlockType": "",
+                    "Miscellaneous": "",
+                    "Remark": "",
+                    "LineList": [
+                        {
+                            "LineStartX": 1476,
+                            "LineStartY": 2346,
+                            "LineWidth": 288,
+                            "LineHeight": 40,
+                            "LineID": "line_0",
+                            "WordList": [
+                                {
+                                    "WordStartX": 1476,
+                                    "WordStartY": 2346,
+                                    "WordWidth": 105,
+                                    "WordHeight": 31,
+                                    "CharListrunlist": [],
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "Office",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_0",
+                                    "WordCharN": 6
+                                },
+                                {
+                                    "WordStartX": 1597,
+                                    "WordStartY": 2347,
+                                    "WordWidth": 70,
+                                    "WordHeight": 30,
+                                    "CharListrunlist": [],
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "Use",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_1",
+                                    "WordCharN": 3
+                                },
+                                {
+                                    "WordStartX": 1681,
+                                    "WordStartY": 2346,
+                                    "WordWidth": 83,
+                                    "WordHeight": 40,
+                                    "CharListrunlist": [],
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "Only",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_2",
+                                    "WordCharN": 4
+                                }
+                            ],
+                            "pageNum": 0,
+                            "blockNum": "block_10",
+                            "LineHeaderAttributes": {}
+                        }
+                    ]
+                },
+                {
+                    "BlockStartX": 62,
+                    "BlockStartY": 3203,
+                    "BlockWidth": 1990,
+                    "BlockHeight": 36,
+                    "BlockID": "block_11",
+                    "BlockBGColor": "",
+                    "BlockFGColor": "",
+                    "BlockType": "",
+                    "Miscellaneous": "",
+                    "Remark": "",
+                    "LineList": [
+                        {
+                            "LineStartX": 62,
+                            "LineStartY": 3203,
+                            "LineWidth": 1988,
+                            "LineHeight": 35,
+                            "LineID": "line_0",
+                            "WordList": [
+                                {
+                                    "WordStartX": 62,
+                                    "WordStartY": 3205,
+                                    "WordWidth": 35,
+                                    "WordHeight": 26,
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "All",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_0",
+                                    "WordCharN": 3
+                                },
+                                {
+                                    "WordStartX": 111,
+                                    "WordStartY": 3203,
+                                    "WordWidth": 157,
+                                    "WordHeight": 28,
+                                    "CharListrunlist": [],
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "references",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_1",
+                                    "WordCharN": 10
+                                },
+                                {
+                                    "WordStartX": 278,
+                                    "WordStartY": 3208,
+                                    "WordWidth": 31,
+                                    "WordHeight": 23,
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "to",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_2",
+                                    "WordCharN": 2
+                                },
+                                {
+                                    "WordStartX": 322,
+                                    "WordStartY": 3212,
+                                    "WordWidth": 106,
+                                    "WordHeight": 23,
+                                    "CharListrunlist": [],
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "names,",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_3",
+                                    "WordCharN": 6
+                                },
+                                {
+                                    "WordStartX": 437,
+                                    "WordStartY": 3205,
+                                    "WordWidth": 102,
+                                    "WordHeight": 33,
+                                    "CharListrunlist": [],
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "places,",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_4",
+                                    "WordCharN": 7
+                                },
+                                {
+                                    "WordStartX": 547,
+                                    "WordStartY": 3205,
+                                    "WordWidth": 159,
+                                    "WordHeight": 31,
+                                    "CharListrunlist": [],
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "addresses,",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_5",
+                                    "WordCharN": 10
+                                },
+                                {
+                                    "WordStartX": 715,
+                                    "WordStartY": 3205,
+                                    "WordWidth": 56,
+                                    "WordHeight": 27,
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "and",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_6",
+                                    "WordCharN": 3
+                                },
+                                {
+                                    "WordStartX": 782,
+                                    "WordStartY": 3205,
+                                    "WordWidth": 83,
+                                    "WordHeight": 27,
+                                    "CharListrunlist": [],
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "other",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_7",
+                                    "WordCharN": 5
+                                },
+                                {
+                                    "WordStartX": 876,
+                                    "WordStartY": 3205,
+                                    "WordWidth": 66,
+                                    "WordHeight": 27,
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "data",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_8",
+                                    "WordCharN": 4
+                                },
+                                {
+                                    "WordStartX": 953,
+                                    "WordStartY": 3212,
+                                    "WordWidth": 31,
+                                    "WordHeight": 19,
+                                    "CharListrunlist": [],
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "or",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_9",
+                                    "WordCharN": 2
+                                },
+                                {
+                                    "WordStartX": 995,
+                                    "WordStartY": 3203,
+                                    "WordWidth": 188,
+                                    "WordHeight": 32,
+                                    "CharListrunlist": [],
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "information,",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_10",
+                                    "WordCharN": 12
+                                },
+                                {
+                                    "WordStartX": 1192,
+                                    "WordStartY": 3212,
+                                    "WordWidth": 46,
+                                    "WordHeight": 20,
+                                    "CharListrunlist": [],
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "are",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_11",
+                                    "WordCharN": 3
+                                },
+                                {
+                                    "WordStartX": 1247,
+                                    "WordStartY": 3203,
+                                    "WordWidth": 134,
+                                    "WordHeight": 28,
+                                    "CharListrunlist": [],
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "fictitious",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_12",
+                                    "WordCharN": 10
+                                },
+                                {
+                                    "WordStartX": 1392,
+                                    "WordStartY": 3205,
+                                    "WordWidth": 56,
+                                    "WordHeight": 27,
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "and",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_13",
+                                    "WordCharN": 3
+                                },
+                                {
+                                    "WordStartX": 1459,
+                                    "WordStartY": 3212,
+                                    "WordWidth": 47,
+                                    "WordHeight": 20,
+                                    "CharListrunlist": [],
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "are",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_14",
+                                    "WordCharN": 3
+                                },
+                                {
+                                    "WordStartX": 1518,
+                                    "WordStartY": 3205,
+                                    "WordWidth": 70,
+                                    "WordHeight": 27,
+                                    "CharListrunlist": [],
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "used",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_15",
+                                    "WordCharN": 4
+                                },
+                                {
+                                    "WordStartX": 1600,
+                                    "WordStartY": 3203,
+                                    "WordWidth": 42,
+                                    "WordHeight": 28,
+                                    "CharListrunlist": [],
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "for",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_16",
+                                    "WordCharN": 3
+                                },
+                                {
+                                    "WordStartX": 1652,
+                                    "WordStartY": 3205,
+                                    "WordWidth": 162,
+                                    "WordHeight": 27,
+                                    "CharListrunlist": [],
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "illustration",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_17",
+                                    "WordCharN": 12
+                                },
+                                {
+                                    "WordStartX": 1827,
+                                    "WordStartY": 3212,
+                                    "WordWidth": 141,
+                                    "WordHeight": 26,
+                                    "CharListrunlist": [],
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "purposes",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_18",
+                                    "WordCharN": 8
+                                },
+                                {
+                                    "WordStartX": 1980,
+                                    "WordStartY": 3205,
+                                    "WordWidth": 71,
+                                    "WordHeight": 33,
+                                    "CharListrunlist": [],
+                                    "bold": "false",
+                                    "underline": "false",
+                                    "italics": "false",
+                                    "WordFontSize": "1000",
+                                    "FontSize": "1000",
+                                    "WordFontSizeGroup": 0,
+                                    "WordValue": "only.",
+                                    "WordOCRConfidence": "High",
+                                    "WordID": "word_19",
+                                    "WordCharN": 5
+                                }
+                            ],
+                            "pageNum": 0,
+                            "blockNum": "block_11",
+                            "LineHeaderAttributes": {}
+                        }
+                    ]
+                }
+            ],
+            "TableList": [
+                {
+                    "TableID": "table_0",
+                    "TableStartX": 78.95833333333334,
+                    "TableStartY": 1038.9583333333333,
+                    "TableHeight": 1248.1250000000002,
+                    "TableWidth": 2317.083333333333,
+                    "RowList": [
+                        {
+                            "RowID": "row_0",
+                            "RowStartX": 78.95833333333334,
+                            "RowStartY": 1038.9583333333333,
+                            "RowHeight": 55,
+                            "RowWidth": 2317.083333333333,
+                            "CellList": [
+                                {
+                                    "CellID": "cell_0",
+                                    "CellStartX": 78.95833333333334,
+                                    "CellStartY": 1038.9583333333333,
+                                    "CellWidth": 260,
+                                    "CellHeight": 55,
+                                    "LineList": [
+                                        {
+                                            "LineID": "line_0",
+                                            "WordList": [
+                                                {
+                                                    "WordID": "word_0",
+                                                    "WordValue": "QTY",
+                                                    "WordStartX": 167.08333333333334,
+                                                    "WordStartY": 1056.0416666666667,
+                                                    "WordWidth": 83.95833333333334,
+                                                    "WordHeight": 32.916666666666515,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 3,
+                                                    "bold": "true",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "none"
+                                                }
+                                            ],
+                                            "LineStartX": 167.08333333333334,
+                                            "LineStartY": 1056.0416666666667,
+                                            "LineWidth": 83.95833333333334,
+                                            "LineHeight": 32.916666666666515,
+                                            "LineNumWords": 1
+                                        }
+                                    ],
+                                    "CellHeaderAttributes": [
+                                        {
+                                            "SemanticMatch": "QTY",
+                                            "Confidence": 100,
+                                            "ClassName": "quantity",
+                                            "HeaderText": "QTY"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "CellID": "cell_1",
+                                    "CellStartX": 338.95833333333337,
+                                    "CellStartY": 1038.9583333333333,
+                                    "CellWidth": 357.08333333333326,
+                                    "CellHeight": 55,
+                                    "LineList": [
+                                        {
+                                            "LineID": "line_0",
+                                            "WordList": [
+                                                {
+                                                    "WordID": "word_0",
+                                                    "WordValue": "Item",
+                                                    "WordStartX": 477.91666666666663,
+                                                    "WordStartY": 1056.0416666666667,
+                                                    "WordWidth": 80,
+                                                    "WordHeight": 31.041666666666515,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 4,
+                                                    "bold": "true",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "none"
+                                                }
+                                            ],
+                                            "LineStartX": 477.91666666666663,
+                                            "LineStartY": 1056.0416666666667,
+                                            "LineWidth": 80,
+                                            "LineHeight": 31.041666666666515,
+                                            "LineNumWords": 1
+                                        }
+                                    ],
+                                    "CellHeaderAttributes": [
+                                        {
+                                            "SemanticMatch": "Item",
+                                            "Confidence": 66.67,
+                                            "ClassName": "title",
+                                            "HeaderText": "Item"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "CellID": "cell_2",
+                                    "CellStartX": 696.0416666666666,
+                                    "CellStartY": 1038.9583333333333,
+                                    "CellWidth": 1026.875,
+                                    "CellHeight": 55,
+                                    "LineList": [
+                                        {
+                                            "LineID": "line_0",
+                                            "WordList": [
+                                                {
+                                                    "WordID": "word_0",
+                                                    "WordValue": "Description",
+                                                    "WordStartX": 712.9166666666667,
+                                                    "WordStartY": 1056.0416666666667,
+                                                    "WordWidth": 224.16666666666652,
+                                                    "WordHeight": 36.04166666666674,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 11,
+                                                    "bold": "true",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "none"
+                                                }
+                                            ],
+                                            "LineStartX": 712.9166666666667,
+                                            "LineStartY": 1056.0416666666667,
+                                            "LineWidth": 224.16666666666652,
+                                            "LineHeight": 36.04166666666674,
+                                            "LineNumWords": 1
+                                        }
+                                    ],
+                                    "CellHeaderAttributes": [
+                                        {
+                                            "SemanticMatch": "Description",
+                                            "Confidence": 100,
+                                            "ClassName": "description",
+                                            "HeaderText": "Description"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "CellID": "cell_3",
+                                    "CellStartX": 1722.9166666666665,
+                                    "CellStartY": 1038.9583333333333,
+                                    "CellWidth": 288.9583333333335,
+                                    "CellHeight": 55,
+                                    "LineList": [
+                                        {
+                                            "LineID": "line_0",
+                                            "WordList": [
+                                                {
+                                                    "WordID": "word_0",
+                                                    "WordValue": "Unit",
+                                                    "WordStartX": 1807.9166666666665,
+                                                    "WordStartY": 1056.0416666666667,
+                                                    "WordWidth": 78.12500000000023,
+                                                    "WordHeight": 31.041666666666515,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 4,
+                                                    "bold": "true",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "none"
+                                                },
+                                                {
+                                                    "WordID": "word_1",
+                                                    "WordValue": "Price",
+                                                    "WordStartX": 1900,
+                                                    "WordStartY": 1056.0416666666667,
+                                                    "WordWidth": 97.91666666666674,
+                                                    "WordHeight": 31.041666666666515,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 5,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "false"
+                                                }
+                                            ],
+                                            "LineStartX": 1807.9166666666665,
+                                            "LineStartY": 1056.0416666666667,
+                                            "LineWidth": 190.00000000000023,
+                                            "LineHeight": 31.041666666666515,
+                                            "LineNumWords": 2
+                                        }
+                                    ],
+                                    "CellHeaderAttributes": [
+                                        {
+                                            "SemanticMatch": "UnitPrice",
+                                            "Confidence": 71.43,
+                                            "ClassName": "price",
+                                            "HeaderText": "UnitPrice"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "CellID": "cell_4",
+                                    "CellStartX": 2011.875,
+                                    "CellStartY": 1038.9583333333333,
+                                    "CellWidth": 384.1666666666665,
+                                    "CellHeight": 55,
+                                    "LineList": [
+                                        {
+                                            "LineID": "line_0",
+                                            "WordList": [
+                                                {
+                                                    "WordID": "word_0",
+                                                    "WordValue": "TOTAL",
+                                                    "WordStartX": 2246.0416666666665,
+                                                    "WordStartY": 1056.0416666666667,
+                                                    "WordWidth": 132.91666666666697,
+                                                    "WordHeight": 31.041666666666515,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 5,
+                                                    "bold": "true",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "none"
+                                                }
+                                            ],
+                                            "LineStartX": 2246.0416666666665,
+                                            "LineStartY": 1056.0416666666667,
+                                            "LineWidth": 132.91666666666697,
+                                            "LineHeight": 31.041666666666515,
+                                            "LineNumWords": 1
+                                        }
+                                    ],
+                                    "CellHeaderAttributes": [
+                                        {
+                                            "SemanticMatch": "TOTAL",
+                                            "Confidence": 100,
+                                            "ClassName": "total",
+                                            "HeaderText": "TOTAL"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "RowID": "row_1",
+                            "RowStartX": 78.95833333333334,
+                            "RowStartY": 1093.9583333333333,
+                            "RowHeight": 903.9583333333335,
+                            "RowWidth": 2317.083333333333,
+                            "CellList": [
+                                {
+                                    "CellID": "cell_0",
+                                    "CellStartX": 78.95833333333334,
+                                    "CellStartY": 1093.9583333333333,
+                                    "CellWidth": 260,
+                                    "CellHeight": 903.9583333333335,
+                                    "LineList": [
+                                        {
+                                            "LineID": "line_0",
+                                            "WordList": [
+                                                {
+                                                    "WordID": "word_0",
+                                                    "WordValue": "1",
+                                                    "WordStartX": 201.04166666666666,
+                                                    "WordStartY": 1111.0416666666665,
+                                                    "WordWidth": 11.041666666666686,
+                                                    "WordHeight": 30.000000000000227,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 1,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "none"
+                                                }
+                                            ],
+                                            "LineStartX": 201.04166666666666,
+                                            "LineStartY": 1111.0416666666665,
+                                            "LineWidth": 11.041666666666686,
+                                            "LineHeight": 30.000000000000227,
+                                            "LineNumWords": 1
+                                        },
+                                        {
+                                            "LineID": "line_1",
+                                            "WordList": [
+                                                {
+                                                    "WordID": "word_0",
+                                                    "WordValue": "50",
+                                                    "WordStartX": 187.08333333333334,
+                                                    "WordStartY": 1165,
+                                                    "WordWidth": 42.916666666666686,
+                                                    "WordHeight": 30,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 2,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "none"
+                                                }
+                                            ],
+                                            "LineStartX": 187.08333333333334,
+                                            "LineStartY": 1165,
+                                            "LineWidth": 42.916666666666686,
+                                            "LineHeight": 30,
+                                            "LineNumWords": 1
+                                        },
+                                        {
+                                            "LineID": "line_2",
+                                            "WordList": [
+                                                {
+                                                    "WordID": "word_0",
+                                                    "WordValue": "1",
+                                                    "WordStartX": 201.04166666666666,
+                                                    "WordStartY": 1218.9583333333333,
+                                                    "WordWidth": 11.041666666666686,
+                                                    "WordHeight": 30.000000000000227,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 1,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "none"
+                                                }
+                                            ],
+                                            "LineStartX": 201.04166666666666,
+                                            "LineStartY": 1218.9583333333333,
+                                            "LineWidth": 11.041666666666686,
+                                            "LineHeight": 30.000000000000227,
+                                            "LineNumWords": 1
+                                        },
+                                        {
+                                            "LineID": "line_3",
+                                            "WordList": [
+                                                {
+                                                    "WordID": "word_0",
+                                                    "WordValue": "1",
+                                                    "WordStartX": 201.04166666666666,
+                                                    "WordStartY": 1272.9166666666665,
+                                                    "WordWidth": 11.041666666666686,
+                                                    "WordHeight": 30.000000000000227,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 1,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "none"
+                                                }
+                                            ],
+                                            "LineStartX": 201.04166666666666,
+                                            "LineStartY": 1272.9166666666665,
+                                            "LineWidth": 11.041666666666686,
+                                            "LineHeight": 30.000000000000227,
+                                            "LineNumWords": 1
+                                        },
+                                        {
+                                            "LineID": "line_4",
+                                            "WordList": [
+                                                {
+                                                    "WordID": "word_0",
+                                                    "WordValue": "1",
+                                                    "WordStartX": 201.04166666666666,
+                                                    "WordStartY": 1327.0833333333333,
+                                                    "WordWidth": 11.041666666666686,
+                                                    "WordHeight": 30.000000000000227,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 1,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "none"
+                                                }
+                                            ],
+                                            "LineStartX": 201.04166666666666,
+                                            "LineStartY": 1327.0833333333333,
+                                            "LineWidth": 11.041666666666686,
+                                            "LineHeight": 30.000000000000227,
+                                            "LineNumWords": 1
+                                        }
+                                    ],
+                                    "CellHeaderAttributes": []
+                                },
+                                {
+                                    "CellID": "cell_1",
+                                    "CellStartX": 338.95833333333337,
+                                    "CellStartY": 1093.9583333333333,
+                                    "CellWidth": 357.08333333333326,
+                                    "CellHeight": 903.9583333333335,
+                                    "LineList": [
+                                        {
+                                            "LineID": "line_0",
+                                            "WordList": [
+                                                {
+                                                    "WordID": "word_0",
+                                                    "WordValue": "1000",
+                                                    "WordStartX": 441.0416666666667,
+                                                    "WordStartY": 1111.0416666666665,
+                                                    "WordWidth": 86.87499999999994,
+                                                    "WordHeight": 30.000000000000227,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 4,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "none"
+                                                },
+                                                {
+                                                    "WordID": "word_1",
+                                                    "WordValue": "-XX",
+                                                    "WordStartX": 530,
+                                                    "WordStartY": 1111.0416666666665,
+                                                    "WordWidth": 67.91666666666663,
+                                                    "WordHeight": 30.000000000000227,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 3,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "false"
+                                                }
+                                            ],
+                                            "LineStartX": 441.0416666666667,
+                                            "LineStartY": 1111.0416666666665,
+                                            "LineWidth": 156.87499999999994,
+                                            "LineHeight": 30.000000000000227,
+                                            "LineNumWords": 2
+                                        },
+                                        {
+                                            "LineID": "line_1",
+                                            "WordList": [
+                                                {
+                                                    "WordID": "word_0",
+                                                    "WordValue": "1100-MM",
+                                                    "WordStartX": 436.0416666666667,
+                                                    "WordStartY": 1165,
+                                                    "WordWidth": 165.00000000000006,
+                                                    "WordHeight": 30,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 7,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "none"
+                                                }
+                                            ],
+                                            "LineStartX": 436.0416666666667,
+                                            "LineStartY": 1165,
+                                            "LineWidth": 165.00000000000006,
+                                            "LineHeight": 30,
+                                            "LineNumWords": 1
+                                        },
+                                        {
+                                            "LineID": "line_2",
+                                            "WordList": [
+                                                {
+                                                    "WordID": "word_0",
+                                                    "WordValue": "3200",
+                                                    "WordStartX": 436.0416666666667,
+                                                    "WordStartY": 1218.9583333333333,
+                                                    "WordWidth": 88.95833333333331,
+                                                    "WordHeight": 31.041666666666742,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 4,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "none"
+                                                },
+                                                {
+                                                    "WordID": "word_1",
+                                                    "WordValue": "-NN",
+                                                    "WordStartX": 527.9166666666666,
+                                                    "WordStartY": 1218.9583333333333,
+                                                    "WordWidth": 70,
+                                                    "WordHeight": 30.000000000000227,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 3,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "false"
+                                                }
+                                            ],
+                                            "LineStartX": 436.0416666666667,
+                                            "LineStartY": 1218.9583333333333,
+                                            "LineWidth": 161.87499999999994,
+                                            "LineHeight": 31.041666666666742,
+                                            "LineNumWords": 2
+                                        },
+                                        {
+                                            "LineID": "line_3",
+                                            "WordList": [
+                                                {
+                                                    "WordID": "word_0",
+                                                    "WordValue": "13001",
+                                                    "WordStartX": 428.9583333333333,
+                                                    "WordStartY": 1272.9166666666665,
+                                                    "WordWidth": 103.95833333333331,
+                                                    "WordHeight": 31.04166666666697,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 5,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "none"
+                                                },
+                                                {
+                                                    "WordID": "word_1",
+                                                    "WordValue": "-AB",
+                                                    "WordStartX": 542.0833333333334,
+                                                    "WordStartY": 1272.9166666666665,
+                                                    "WordWidth": 65.83333333333337,
+                                                    "WordHeight": 30.000000000000227,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 3,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "false"
+                                                }
+                                            ],
+                                            "LineStartX": 428.9583333333333,
+                                            "LineStartY": 1272.9166666666665,
+                                            "LineWidth": 178.95833333333343,
+                                            "LineHeight": 31.04166666666697,
+                                            "LineNumWords": 2
+                                        },
+                                        {
+                                            "LineID": "line_4",
+                                            "WordList": [
+                                                {
+                                                    "WordID": "word_0",
+                                                    "WordValue": "Discount",
+                                                    "WordStartX": 439.99999999999994,
+                                                    "WordStartY": 1327.0833333333333,
+                                                    "WordWidth": 157.91666666666669,
+                                                    "WordHeight": 30.833333333333258,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 8,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "none"
+                                                }
+                                            ],
+                                            "LineStartX": 439.99999999999994,
+                                            "LineStartY": 1327.0833333333333,
+                                            "LineWidth": 157.91666666666669,
+                                            "LineHeight": 30.833333333333258,
+                                            "LineNumWords": 1
+                                        }
+                                    ],
+                                    "CellHeaderAttributes": []
+                                },
+                                {
+                                    "CellID": "cell_2",
+                                    "CellStartX": 696.0416666666666,
+                                    "CellStartY": 1093.9583333333333,
+                                    "CellWidth": 1026.875,
+                                    "CellHeight": 903.9583333333335,
+                                    "LineList": [
+                                        {
+                                            "LineID": "line_0",
+                                            "WordList": [
+                                                {
+                                                    "WordID": "word_0",
+                                                    "WordValue": "Z100",
+                                                    "WordStartX": 711.0416666666667,
+                                                    "WordStartY": 1111.0416666666665,
+                                                    "WordWidth": 92.91666666666663,
+                                                    "WordHeight": 30.000000000000227,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 4,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "none"
+                                                },
+                                                {
+                                                    "WordID": "word_1",
+                                                    "WordValue": "HVAC",
+                                                    "WordStartX": 820,
+                                                    "WordStartY": 1110,
+                                                    "WordWidth": 107.91666666666663,
+                                                    "WordHeight": 31.041666666666742,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 4,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "false"
+                                                },
+                                                {
+                                                    "WordID": "word_2",
+                                                    "WordValue": "system",
+                                                    "WordStartX": 942.9166666666667,
+                                                    "WordStartY": 1112.0833333333333,
+                                                    "WordWidth": 128.12499999999977,
+                                                    "WordHeight": 37.91666666666674,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 6,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "false"
+                                                },
+                                                {
+                                                    "WordID": "word_3",
+                                                    "WordValue": "32g",
+                                                    "WordStartX": 1087.0833333333333,
+                                                    "WordStartY": 1111.0416666666665,
+                                                    "WordWidth": 63.95833333333326,
+                                                    "WordHeight": 38.958333333333485,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 3,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "false"
+                                                }
+                                            ],
+                                            "LineStartX": 711.0416666666667,
+                                            "LineStartY": 1110,
+                                            "LineWidth": 439.9999999999998,
+                                            "LineHeight": 40,
+                                            "LineNumWords": 4
+                                        },
+                                        {
+                                            "LineID": "line_1",
+                                            "WordList": [
+                                                {
+                                                    "WordID": "word_0",
+                                                    "WordValue": "Coupling",
+                                                    "WordStartX": 712.0833333333333,
+                                                    "WordStartY": 1163.9583333333333,
+                                                    "WordWidth": 160.0000000000001,
+                                                    "WordHeight": 40,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 8,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "none"
+                                                }
+                                            ],
+                                            "LineStartX": 712.0833333333333,
+                                            "LineStartY": 1163.9583333333333,
+                                            "LineWidth": 160.0000000000001,
+                                            "LineHeight": 40,
+                                            "LineNumWords": 1
+                                        },
+                                        {
+                                            "LineID": "line_2",
+                                            "WordList": [
+                                                {
+                                                    "WordID": "word_0",
+                                                    "WordValue": "Diverter",
+                                                    "WordStartX": 713.9583333333333,
+                                                    "WordStartY": 1218.9583333333333,
+                                                    "WordWidth": 143.125,
+                                                    "WordHeight": 31.041666666666742,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 8,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "none"
+                                                }
+                                            ],
+                                            "LineStartX": 713.9583333333333,
+                                            "LineStartY": 1218.9583333333333,
+                                            "LineWidth": 143.125,
+                                            "LineHeight": 31.041666666666742,
+                                            "LineNumWords": 1
+                                        },
+                                        {
+                                            "LineID": "line_3",
+                                            "WordList": [
+                                                {
+                                                    "WordID": "word_0",
+                                                    "WordValue": "Delivery",
+                                                    "WordStartX": 713.9583333333333,
+                                                    "WordStartY": 1272.9166666666665,
+                                                    "WordWidth": 146.04166666666674,
+                                                    "WordHeight": 39.16666666666674,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 8,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "none"
+                                                }
+                                            ],
+                                            "LineStartX": 713.9583333333333,
+                                            "LineStartY": 1272.9166666666665,
+                                            "LineWidth": 146.04166666666674,
+                                            "LineHeight": 39.16666666666674,
+                                            "LineNumWords": 1
+                                        },
+                                        {
+                                            "LineID": "line_4",
+                                            "WordList": [
+                                                {
+                                                    "WordID": "word_0",
+                                                    "WordValue": "Pro",
+                                                    "WordStartX": 713.9583333333333,
+                                                    "WordStartY": 1327.0833333333333,
+                                                    "WordWidth": 60.000000000000114,
+                                                    "WordHeight": 30.833333333333258,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 3,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "none"
+                                                },
+                                                {
+                                                    "WordID": "word_1",
+                                                    "WordValue": "discount",
+                                                    "WordStartX": 787.9166666666667,
+                                                    "WordStartY": 1327.0833333333333,
+                                                    "WordWidth": 154.16666666666663,
+                                                    "WordHeight": 30.833333333333258,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 8,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "false"
+                                                }
+                                            ],
+                                            "LineStartX": 713.9583333333333,
+                                            "LineStartY": 1327.0833333333333,
+                                            "LineWidth": 228.1250000000001,
+                                            "LineHeight": 30.833333333333258,
+                                            "LineNumWords": 2
+                                        }
+                                    ],
+                                    "CellHeaderAttributes": []
+                                },
+                                {
+                                    "CellID": "cell_3",
+                                    "CellStartX": 1722.9166666666665,
+                                    "CellStartY": 1093.9583333333333,
+                                    "CellWidth": 288.9583333333335,
+                                    "CellHeight": 903.9583333333335,
+                                    "LineList": [
+                                        {
+                                            "LineID": "line_0",
+                                            "WordList": [
+                                                {
+                                                    "WordID": "word_0",
+                                                    "WordValue": "2100.00",
+                                                    "WordStartX": 1850,
+                                                    "WordStartY": 1111.0416666666665,
+                                                    "WordWidth": 147.08333333333326,
+                                                    "WordHeight": 30.000000000000227,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 7,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "none"
+                                                }
+                                            ],
+                                            "LineStartX": 1850,
+                                            "LineStartY": 1111.0416666666665,
+                                            "LineWidth": 147.08333333333326,
+                                            "LineHeight": 30.000000000000227,
+                                            "LineNumWords": 1
+                                        },
+                                        {
+                                            "LineID": "line_1",
+                                            "WordList": [
+                                                {
+                                                    "WordID": "word_0",
+                                                    "WordValue": "3.00",
+                                                    "WordStartX": 1920,
+                                                    "WordStartY": 1165,
+                                                    "WordWidth": 77.08333333333326,
+                                                    "WordHeight": 30,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 4,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "none"
+                                                }
+                                            ],
+                                            "LineStartX": 1920,
+                                            "LineStartY": 1165,
+                                            "LineWidth": 77.08333333333326,
+                                            "LineHeight": 30,
+                                            "LineNumWords": 1
+                                        },
+                                        {
+                                            "LineID": "line_2",
+                                            "WordList": [
+                                                {
+                                                    "WordID": "word_0",
+                                                    "WordValue": "500.00",
+                                                    "WordStartX": 1873.9583333333333,
+                                                    "WordStartY": 1218.9583333333333,
+                                                    "WordWidth": 123.125,
+                                                    "WordHeight": 31.041666666666742,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 6,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "none"
+                                                }
+                                            ],
+                                            "LineStartX": 1873.9583333333333,
+                                            "LineStartY": 1218.9583333333333,
+                                            "LineWidth": 123.125,
+                                            "LineHeight": 31.041666666666742,
+                                            "LineNumWords": 1
+                                        },
+                                        {
+                                            "LineID": "line_3",
+                                            "WordList": [
+                                                {
+                                                    "WordID": "word_0",
+                                                    "WordValue": "400.00",
+                                                    "WordStartX": 1872.0833333333335,
+                                                    "WordStartY": 1272.9166666666665,
+                                                    "WordWidth": 124.99999999999977,
+                                                    "WordHeight": 31.04166666666697,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 6,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "none"
+                                                }
+                                            ],
+                                            "LineStartX": 1872.0833333333335,
+                                            "LineStartY": 1272.9166666666665,
+                                            "LineWidth": 124.99999999999977,
+                                            "LineHeight": 31.04166666666697,
+                                            "LineNumWords": 1
+                                        },
+                                        {
+                                            "LineID": "line_4",
+                                            "WordList": [
+                                                {
+                                                    "WordID": "word_0",
+                                                    "WordValue": "-1100.00",
+                                                    "WordStartX": 1838.9583333333335,
+                                                    "WordStartY": 1327.0833333333333,
+                                                    "WordWidth": 158.12499999999977,
+                                                    "WordHeight": 30.833333333333258,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 8,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "none"
+                                                }
+                                            ],
+                                            "LineStartX": 1838.9583333333335,
+                                            "LineStartY": 1327.0833333333333,
+                                            "LineWidth": 158.12499999999977,
+                                            "LineHeight": 30.833333333333258,
+                                            "LineNumWords": 1
+                                        }
+                                    ],
+                                    "CellHeaderAttributes": []
+                                },
+                                {
+                                    "CellID": "cell_4",
+                                    "CellStartX": 2011.875,
+                                    "CellStartY": 1093.9583333333333,
+                                    "CellWidth": 384.1666666666665,
+                                    "CellHeight": 903.9583333333335,
+                                    "LineList": [
+                                        {
+                                            "LineID": "line_0",
+                                            "WordList": [
+                                                {
+                                                    "WordID": "word_0",
+                                                    "WordValue": "2100.00",
+                                                    "WordStartX": 2230,
+                                                    "WordStartY": 1111.0416666666665,
+                                                    "WordWidth": 147.91666666666652,
+                                                    "WordHeight": 30.000000000000227,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 7,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "none"
+                                                }
+                                            ],
+                                            "LineStartX": 2230,
+                                            "LineStartY": 1111.0416666666665,
+                                            "LineWidth": 147.91666666666652,
+                                            "LineHeight": 30.000000000000227,
+                                            "LineNumWords": 1
+                                        },
+                                        {
+                                            "LineID": "line_1",
+                                            "WordList": [
+                                                {
+                                                    "WordID": "word_0",
+                                                    "WordValue": "150.00",
+                                                    "WordStartX": 2256.0416666666665,
+                                                    "WordStartY": 1165,
+                                                    "WordWidth": 121.875,
+                                                    "WordHeight": 30,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 6,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "none"
+                                                }
+                                            ],
+                                            "LineStartX": 2256.0416666666665,
+                                            "LineStartY": 1165,
+                                            "LineWidth": 121.875,
+                                            "LineHeight": 30,
+                                            "LineNumWords": 1
+                                        },
+                                        {
+                                            "LineID": "line_2",
+                                            "WordList": [
+                                                {
+                                                    "WordID": "word_0",
+                                                    "WordValue": "500.00",
+                                                    "WordStartX": 2253.9583333333335,
+                                                    "WordStartY": 1218.9583333333333,
+                                                    "WordWidth": 123.95833333333303,
+                                                    "WordHeight": 31.041666666666742,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 6,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "none"
+                                                }
+                                            ],
+                                            "LineStartX": 2253.9583333333335,
+                                            "LineStartY": 1218.9583333333333,
+                                            "LineWidth": 123.95833333333303,
+                                            "LineHeight": 31.041666666666742,
+                                            "LineNumWords": 1
+                                        },
+                                        {
+                                            "LineID": "line_3",
+                                            "WordList": [
+                                                {
+                                                    "WordID": "word_0",
+                                                    "WordValue": "400.00",
+                                                    "WordStartX": 2252.0833333333335,
+                                                    "WordStartY": 1272.9166666666665,
+                                                    "WordWidth": 125.83333333333303,
+                                                    "WordHeight": 31.04166666666697,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 6,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "none"
+                                                }
+                                            ],
+                                            "LineStartX": 2252.0833333333335,
+                                            "LineStartY": 1272.9166666666665,
+                                            "LineWidth": 125.83333333333303,
+                                            "LineHeight": 31.04166666666697,
+                                            "LineNumWords": 1
+                                        },
+                                        {
+                                            "LineID": "line_4",
+                                            "WordList": [
+                                                {
+                                                    "WordID": "word_0",
+                                                    "WordValue": "-1100.00",
+                                                    "WordStartX": 2218.9583333333335,
+                                                    "WordStartY": 1327.0833333333333,
+                                                    "WordWidth": 158.95833333333303,
+                                                    "WordHeight": 30.833333333333258,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 8,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "none"
+                                                }
+                                            ],
+                                            "LineStartX": 2218.9583333333335,
+                                            "LineStartY": 1327.0833333333333,
+                                            "LineWidth": 158.95833333333303,
+                                            "LineHeight": 30.833333333333258,
+                                            "LineNumWords": 1
+                                        }
+                                    ],
+                                    "CellHeaderAttributes": []
+                                }
+                            ]
+                        },
+                        {
+                            "RowID": "row_2",
+                            "RowStartX": 1722.9166666666665,
+                            "RowStartY": 1997.9166666666667,
+                            "RowHeight": 56.04166666666674,
+                            "RowWidth": 673.125,
+                            "CellList": [
+                                {
+                                    "CellID": "cell_0",
+                                    "CellStartX": 1722.9166666666665,
+                                    "CellStartY": 1997.9166666666667,
+                                    "CellWidth": 288.9583333333335,
+                                    "CellHeight": 56.04166666666674,
+                                    "LineList": [
+                                        {
+                                            "LineID": "line_0",
+                                            "WordList": [
+                                                {
+                                                    "WordID": "word_0",
+                                                    "WordValue": "SubTotal",
+                                                    "WordStartX": 1838.9583333333335,
+                                                    "WordStartY": 2012.0833333333335,
+                                                    "WordWidth": 158.12499999999977,
+                                                    "WordHeight": 30.83333333333303,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 8,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "none"
+                                                }
+                                            ],
+                                            "LineStartX": 1838.9583333333335,
+                                            "LineStartY": 2012.0833333333335,
+                                            "LineWidth": 158.12499999999977,
+                                            "LineHeight": 30.83333333333303,
+                                            "LineNumWords": 1
+                                        }
+                                    ],
+                                    "CellHeaderAttributes": []
+                                },
+                                {
+                                    "CellID": "cell_1",
+                                    "CellStartX": 2011.875,
+                                    "CellStartY": 1997.9166666666667,
+                                    "CellWidth": 384.1666666666665,
+                                    "CellHeight": 56.04166666666674,
+                                    "LineList": [
+                                        {
+                                            "LineID": "line_0",
+                                            "WordList": [
+                                                {
+                                                    "WordID": "word_0",
+                                                    "WordValue": "2050.00",
+                                                    "WordStartX": 2227.9166666666665,
+                                                    "WordStartY": 2012.0833333333335,
+                                                    "WordWidth": 148.12500000000045,
+                                                    "WordHeight": 30.83333333333303,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 7,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "none"
+                                                }
+                                            ],
+                                            "LineStartX": 2227.9166666666665,
+                                            "LineStartY": 2012.0833333333335,
+                                            "LineWidth": 148.12500000000045,
+                                            "LineHeight": 30.83333333333303,
+                                            "LineNumWords": 1
+                                        }
+                                    ],
+                                    "CellHeaderAttributes": []
+                                }
+                            ]
+                        },
+                        {
+                            "RowID": "row_3",
+                            "RowStartX": 1722.9166666666665,
+                            "RowStartY": 2053.9583333333335,
+                            "RowHeight": 58.95833333333303,
+                            "RowWidth": 288.9583333333335,
+                            "CellList": [
+                                {
+                                    "CellID": "cell_0",
+                                    "CellStartX": 1722.9166666666665,
+                                    "CellStartY": 2053.9583333333335,
+                                    "CellWidth": 288.9583333333335,
+                                    "CellHeight": 58.95833333333303,
+                                    "LineList": [
+                                        {
+                                            "LineID": "line_0",
+                                            "WordList": [
+                                                {
+                                                    "WordID": "word_0",
+                                                    "WordValue": "Shipping",
+                                                    "WordStartX": 1838.9583333333335,
+                                                    "WordStartY": 2070,
+                                                    "WordWidth": 157.08333333333303,
+                                                    "WordHeight": 38.958333333333485,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 8,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "none"
+                                                }
+                                            ],
+                                            "LineStartX": 1838.9583333333335,
+                                            "LineStartY": 2070,
+                                            "LineWidth": 157.08333333333303,
+                                            "LineHeight": 38.958333333333485,
+                                            "LineNumWords": 1
+                                        }
+                                    ],
+                                    "CellHeaderAttributes": []
+                                }
+                            ]
+                        },
+                        {
+                            "RowID": "row_4",
+                            "RowStartX": 1722.9166666666665,
+                            "RowStartY": 2112.9166666666665,
+                            "RowHeight": 58.958333333333485,
+                            "RowWidth": 673.125,
+                            "CellList": [
+                                {
+                                    "CellID": "cell_0",
+                                    "CellStartX": 1722.9166666666665,
+                                    "CellStartY": 2112.9166666666665,
+                                    "CellWidth": 288.9583333333335,
+                                    "CellHeight": 58.958333333333485,
+                                    "LineList": [
+                                        {
+                                            "LineID": "line_0",
+                                            "WordList": [
+                                                {
+                                                    "WordID": "word_0",
+                                                    "WordValue": "Tax",
+                                                    "WordStartX": 1806.0416666666667,
+                                                    "WordStartY": 2128.9583333333335,
+                                                    "WordWidth": 62.916666666666515,
+                                                    "WordHeight": 30,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 3,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "none"
+                                                },
+                                                {
+                                                    "WordID": "word_1",
+                                                    "WordValue": "5.25%",
+                                                    "WordStartX": 1882.9166666666665,
+                                                    "WordStartY": 2127.916666666667,
+                                                    "WordWidth": 114.16666666666674,
+                                                    "WordHeight": 32.08333333333303,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 5,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "false"
+                                                }
+                                            ],
+                                            "LineStartX": 1806.0416666666667,
+                                            "LineStartY": 2127.916666666667,
+                                            "LineWidth": 191.04166666666652,
+                                            "LineHeight": 32.08333333333303,
+                                            "LineNumWords": 2
+                                        }
+                                    ],
+                                    "CellHeaderAttributes": []
+                                },
+                                {
+                                    "CellID": "cell_1",
+                                    "CellStartX": 2011.875,
+                                    "CellStartY": 2112.9166666666665,
+                                    "CellWidth": 384.1666666666665,
+                                    "CellHeight": 58.958333333333485,
+                                    "LineList": [
+                                        {
+                                            "LineID": "line_0",
+                                            "WordList": [
+                                                {
+                                                    "WordID": "word_0",
+                                                    "WordValue": "107.63",
+                                                    "WordStartX": 2253.9583333333335,
+                                                    "WordStartY": 2128.9583333333335,
+                                                    "WordWidth": 122.08333333333348,
+                                                    "WordHeight": 30,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 6,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "none"
+                                                }
+                                            ],
+                                            "LineStartX": 2253.9583333333335,
+                                            "LineStartY": 2128.9583333333335,
+                                            "LineWidth": 122.08333333333348,
+                                            "LineHeight": 30,
+                                            "LineNumWords": 1
+                                        }
+                                    ],
+                                    "CellHeaderAttributes": []
+                                }
+                            ]
+                        },
+                        {
+                            "RowID": "row_5",
+                            "RowStartX": 1722.9166666666665,
+                            "RowStartY": 2226.041666666667,
+                            "RowHeight": 60.83333333333303,
+                            "RowWidth": 673.125,
+                            "CellList": [
+                                {
+                                    "CellID": "cell_0",
+                                    "CellStartX": 1722.9166666666665,
+                                    "CellStartY": 2226.041666666667,
+                                    "CellWidth": 288.9583333333335,
+                                    "CellHeight": 60.83333333333303,
+                                    "LineList": [
+                                        {
+                                            "LineID": "line_0",
+                                            "WordList": [
+                                                {
+                                                    "WordID": "word_0",
+                                                    "WordValue": "TOTAL",
+                                                    "WordStartX": 1866.0416666666667,
+                                                    "WordStartY": 2245,
+                                                    "WordWidth": 132.91666666666674,
+                                                    "WordHeight": 31.041666666666515,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 5,
+                                                    "bold": "true",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "none"
+                                                }
+                                            ],
+                                            "LineStartX": 1866.0416666666667,
+                                            "LineStartY": 2245,
+                                            "LineWidth": 132.91666666666674,
+                                            "LineHeight": 31.041666666666515,
+                                            "LineNumWords": 1
+                                        }
+                                    ],
+                                    "CellHeaderAttributes": []
+                                },
+                                {
+                                    "CellID": "cell_1",
+                                    "CellStartX": 2011.875,
+                                    "CellStartY": 2226.041666666667,
+                                    "CellWidth": 384.1666666666665,
+                                    "CellHeight": 60.83333333333303,
+                                    "LineList": [
+                                        {
+                                            "LineID": "line_0",
+                                            "WordList": [
+                                                {
+                                                    "WordID": "word_0",
+                                                    "WordValue": "2157.63",
+                                                    "WordStartX": 2227.9166666666665,
+                                                    "WordStartY": 2245,
+                                                    "WordWidth": 148.12500000000045,
+                                                    "WordHeight": 31.041666666666515,
+                                                    "WordOCRConfidence": "High",
+                                                    "WordNumChar": 7,
+                                                    "bold": "false",
+                                                    "WordFontSize": "1000",
+                                                    "italics": "false",
+                                                    "underline": "none"
+                                                }
+                                            ],
+                                            "LineStartX": 2227.9166666666665,
+                                            "LineStartY": 2245,
+                                            "LineWidth": 148.12500000000045,
+                                            "LineHeight": 31.041666666666515,
+                                            "LineNumWords": 1
+                                        }
+                                    ],
+                                    "CellHeaderAttributes": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "PageInfo": {
+                "Language": [
+                    "en",
+                    "de",
+                    "nl",
+                    "da"
+                ],
+                "PageHeight": 3305,
+                "PageID": "page_0",
+                "PageNo": 0,
+                "PageStartX": 0,
+                "PageStartY": 0,
+                "PageWidth": 2555,
+                "PageOCRConfidence": "High"
+            },
+            "TotalLetters": 610,
+            "TotalGoodLetters": 610,
+            "BarcodeList": [],
+            "KVPTable": [
+                {
+                    "Key": "Invoice No.",
+                    "Value": "0014879",
+                    "KeyStartX": 1782,
+                    "KeyStartY": 222,
+                    "KeyWidth": 216,
+                    "KeyHeight": 30,
+                    "KeyConfidence": "High",
+                    "ValueStartX": 2037,
+                    "ValueStartY": 222,
+                    "ValueWidth": 159,
+                    "ValueHeight": 30,
+                    "ValueConfidence": "High",
+                    "Sensitivity": false,
+                    "EditedValue": "Null",
+                    "KeyClassConfidence": "High",
+                    "KeyClass": "InvoiceNumber",
+                    "PageNumber": 0,
+                    "Mandatory": "True"
+                },
+                {
+                    "Key": "Phone",
+                    "Value": "605-555-6789",
+                    "KeyStartX": 1108,
+                    "KeyStartY": 463,
+                    "KeyWidth": 126,
+                    "KeyHeight": 30,
+                    "KeyConfidence": "High",
+                    "ValueStartX": 1251,
+                    "ValueStartY": 463,
+                    "ValueWidth": 256,
+                    "ValueHeight": 30,
+                    "ValueConfidence": "High",
+                    "Sensitivity": false,
+                    "EditedValue": "Null",
+                    "KeyClassConfidence": "High",
+                    "KeyClass": "Phone",
+                    "PageNumber": 0,
+                    "Mandatory": "False"
+                },
+                {
+                    "Key": "Fax",
+                    "Value": "605-555-6788",
+                    "KeyStartX": 1108,
+                    "KeyStartY": 513,
+                    "KeyWidth": 75,
+                    "KeyHeight": 30,
+                    "KeyConfidence": "High",
+                    "ValueStartX": 1200,
+                    "ValueStartY": 513,
+                    "ValueWidth": 257,
+                    "ValueHeight": 30,
+                    "ValueConfidence": "High",
+                    "Sensitivity": false,
+                    "EditedValue": "Null",
+                    "KeyClassConfidence": "High",
+                    "KeyClass": "Fax",
+                    "PageNumber": 0,
+                    "Mandatory": "False"
+                },
+                {
+                    "Key": "Customer",
+                    "Value": "Name",
+                    "KeyStartX": 97,
+                    "KeyStartY": 678,
+                    "KeyWidth": 202,
+                    "KeyHeight": 32,
+                    "KeyConfidence": "High",
+                    "ValueStartX": 98,
+                    "ValueStartY": 781,
+                    "ValueWidth": 108,
+                    "ValueHeight": 31,
+                    "ValueConfidence": "High",
+                    "Sensitivity": false,
+                    "EditedValue": "Null",
+                    "KeyClassConfidence": "Medium",
+                    "KeyClass": "CustName",
+                    "PageNumber": 0,
+                    "Mandatory": "False"
+                },
+                {
+                    "Key": "Date",
+                    "Value": "02/15/10",
+                    "KeyStartX": 1750,
+                    "KeyStartY": 781,
+                    "KeyWidth": 86,
+                    "KeyHeight": 31,
+                    "KeyConfidence": "High",
+                    "ValueStartX": 2032,
+                    "ValueStartY": 781,
+                    "ValueWidth": 158,
+                    "ValueHeight": 31,
+                    "ValueConfidence": "High",
+                    "Sensitivity": false,
+                    "EditedValue": "Null",
+                    "KeyClassConfidence": "High",
+                    "KeyClass": "InvoiceDate",
+                    "PageNumber": 0,
+                    "Mandatory": "False"
+                },
+                {
+                    "Key": "Address",
+                    "Value": "55 Unknown Road",
+                    "KeyStartX": 96,
+                    "KeyStartY": 835,
+                    "KeyWidth": 165,
+                    "KeyHeight": 31,
+                    "KeyConfidence": "High",
+                    "ValueStartX": 360,
+                    "ValueStartY": 835,
+                    "ValueWidth": 337,
+                    "ValueHeight": 31,
+                    "ValueConfidence": "High",
+                    "Sensitivity": false,
+                    "EditedValue": "Null",
+                    "KeyClassConfidence": "High",
+                    "KeyClass": "Address",
+                    "PageNumber": 0,
+                    "Mandatory": "False"
+                },
+                {
+                    "Key": "State",
+                    "Value": "AL",
+                    "KeyStartX": 835,
+                    "KeyStartY": 888,
+                    "KeyWidth": 102,
+                    "KeyHeight": 31,
+                    "KeyConfidence": "High",
+                    "ValueStartX": 973,
+                    "ValueStartY": 890,
+                    "ValueWidth": 50,
+                    "ValueHeight": 30,
+                    "ValueConfidence": "High",
+                    "Sensitivity": false,
+                    "EditedValue": "Null",
+                    "KeyClassConfidence": "Medium",
+                    "KeyClass": "EstDate",
+                    "PageNumber": 0,
+                    "Mandatory": "False"
+                },
+                {
+                    "Key": "Phone",
+                    "Value": "(334) 555-1111",
+                    "KeyStartX": 98,
+                    "KeyStartY": 943,
+                    "KeyWidth": 123,
+                    "KeyHeight": 31,
+                    "KeyConfidence": "High",
+                    "ValueStartX": 361,
+                    "ValueStartY": 942,
+                    "ValueWidth": 264,
+                    "ValueHeight": 40,
+                    "ValueConfidence": "High",
+                    "Sensitivity": false,
+                    "EditedValue": "Null",
+                    "KeyClassConfidence": "High",
+                    "KeyClass": "Phone",
+                    "PageNumber": 0,
+                    "Mandatory": "False"
+                },
+                {
+                    "Key": "Terms",
+                    "Value": "2/10Net30",
+                    "KeyStartX": 1747,
+                    "KeyStartY": 943,
+                    "KeyWidth": 119,
+                    "KeyHeight": 31,
+                    "KeyConfidence": "High",
+                    "ValueStartX": 2031,
+                    "ValueStartY": 942,
+                    "ValueWidth": 189,
+                    "ValueHeight": 32,
+                    "ValueConfidence": "High",
+                    "Sensitivity": false,
+                    "EditedValue": "Null",
+                    "KeyClassConfidence": "High",
+                    "KeyClass": "Terms",
+                    "PageNumber": 0,
+                    "Mandatory": "False"
+                },
+                {
+                    "Key": "PO#",
+                    "Value": "013125",
+                    "KeyStartX": 1750,
+                    "KeyStartY": 888,
+                    "KeyWidth": 80,
+                    "KeyHeight": 31,
+                    "KeyConfidence": "High",
+                    "ValueStartX": 2032,
+                    "ValueStartY": 890,
+                    "ValueWidth": 135,
+                    "ValueHeight": 30,
+                    "ValueConfidence": "High",
+                    "Sensitivity": false,
+                    "EditedValue": "Null",
+                    "KeyClass": "",
+                    "KeyClassConfidence": "Low",
+                    "PageNumber": 0,
+                    "Mandatory": "False"
+                },
+                {
+                    "Key": "ZIP",
+                    "Value": "36101",
+                    "KeyStartX": 1186,
+                    "KeyStartY": 890,
+                    "KeyWidth": 72,
+                    "KeyHeight": 30,
+                    "KeyConfidence": "High",
+                    "ValueStartX": 1287,
+                    "ValueStartY": 890,
+                    "ValueWidth": 106,
+                    "ValueHeight": 30,
+                    "ValueConfidence": "High",
+                    "Sensitivity": false,
+                    "EditedValue": "Null",
+                    "KeyClass": "InvoiceNumber",
+                    "KeyClassConfidence": "High",
+                    "PageNumber": 0,
+                    "Mandatory": "True"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+Invoice No. 0014879 
+N 
+>. 
+>< 
+Customer: 
+XYZ Hardware 
+60 Shovel Rd Phone: 605-555-6789 
+Pierre, SD 57501 Fax: 605-555-6788 
+Name Ralph R. Anderson 
+Address 55 Unknown Road 
+City Montgomery 
+Phone (334) 555-1111 
+State: AL 
+ZIP: 36101 
+Misc: 
+Date 02/15/10 
+Order No. 738939 
+PO# 013125 
+Terms 2/10Net30 
+QTY 	Item 	Description 	Unit Price 	TOTAL 
+1 50 1 1 1 	1000-XX 1100-MM 3200-NN 13001-AB Discount 	Z100 HVAC system 32g Coupling Diverter Delivery Pro discount 	2100.00 3.00 500.00 400.00 -1100.00 	2100.00 150.00 500.00 400.00 -1100.00 
+SubTotal 	2050.00 
+Shipping 
+Tax 5.25% 	107.63 
+TOTAL 	2157.63 
+Office Use Only 
+All references to names, places, addresses, and other data or information, are fictitious and are used for illustration purposes only. 
